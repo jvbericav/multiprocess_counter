@@ -51,7 +51,9 @@ int main() {
 			}
 		}
 	}
-	sleep(3);//waitpid(pid, NULL, 0);
+	sleep(4);
 	printf("%d\n", *b);
 	return 0;
 }
+
+
